@@ -1,0 +1,2 @@
+class ResellerController < ApplicationController
+end
